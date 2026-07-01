@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Omnius AI
+<img src="assets/omnius-logo.png" alt="Omnius AI" width="420">
 
 ### Seu atendente de WhatsApp com Inteligência Artificial — trabalhando 24h por dia
 
