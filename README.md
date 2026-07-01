@@ -84,7 +84,7 @@ Ficou com dúvida, quer testar ou contratar? Fale com a gente:
 
 <div align="center">
 
-### 💬 **[FALAR NO WHATSAPP](https://wa.me/5595981048494)**
+### 💬 **[FALAR NO WHATSAPP](https://wa.me/5512982005889)**
 
 </div>
 
