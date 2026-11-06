@@ -4,10 +4,10 @@
 
 ### 🤖 Seu atendente de WhatsApp com Inteligência Artificial — trabalhando 24h por dia
 
-[![Última versão](https://img.shields.io/github/v/release/jeffthiago/omnius-releases?label=vers%C3%A3o&color=0369a1&style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffthiago/omnius-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/jeffthiago/omnius-releases/total?label=downloads&color=10b981&style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/jeffthiago/omnius-releases/releases)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0369a1?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/jeffthiago/omnius-releases/releases)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Atendimento%2024h-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512982005889)
+[<img src="assets/badges/versoes.svg" alt="Última versão">](https://github.com/jeffthiago/omnius-releases/releases/latest)
+[<img src="assets/badges/instalador.svg" alt="Instalador">](https://github.com/jeffthiago/omnius-releases/releases/download/v7.0.14/OmniusAI-7.0.14-Setup-PTBR.exe)
+[<img src="assets/badges/windows.svg" alt="Windows 10 e 11">](https://github.com/jeffthiago/omnius-releases/releases)
+[<img src="assets/badges/whatsapp.svg" alt="WhatsApp">](https://wa.me/5512982005889)
 
 ## ⬇️ **[BAIXAR O INSTALADOR](https://github.com/jeffthiago/omnius-releases/releases/download/v7.0.14/OmniusAI-7.0.14-Setup-PTBR.exe)**
 
